@@ -1,0 +1,25 @@
+1. pwd
+2. cd [depends on where you are located on your Computer]
+3. mkdir InformaticsStudent
+4. cd InformaticsStudent
+5. mkdir AT Year1 
+   touch Me.txt
+6. cd Year1
+7. touch IntroductionToComputation OOP
+8. cd ..
+9. cd AT
+   mkdir F-1 F0 F1 F2 F3 F4 F5 F6 F7 F8 F9
+10. cd ..
+    cd Year1 
+    rm [OOP or IntroductionToComputation]
+    mv [OOP or IntroductionToComputation] ..
+11. cd ..
+    cd AT
+    rm -rm F7
+12. cd ..
+    mv AT AppletonTower
+13. nano Me.txt
+    Hello I'm an Informatics Student and I'm proud of it!:)
+    Option O or Ctrl O
+    Option X or Ctrl X
+14. cd .. rm -rf InformaticsStudent
