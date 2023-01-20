@@ -5,7 +5,8 @@ This repository contains materials for the Command Line Workshop given by InfPal
 Matrials consists of:
 - Main Presentation
 - Sheet with Exercises
-- Sheet with Commands 
+- Sheet with Commands
+- Sheet with Instructions for Windows Users
 - Text file with Solutions
 
 Commands covered on this workshop:
